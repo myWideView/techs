@@ -5,3 +5,5 @@
 ## [code with mosh sql](https://drive.google.com/drive/folders/1PPtGEOqH8_zgYo6t6JGky15YxDadabp8?usp=sharing)
 ## [code with mosh  react](https://drive.google.com/drive/folders/1_nkVDXTurtpVDpnBC70uICQmXv6mmqsV?usp=sharing)'
 ## [Reactnative part 2 ](https://drive.google.com/drive/folders/10vGgugv_uJDhN1KkTyFPKESxDv4jbDzb?usp=sharing) 1 in pc
+## [code with mosh Javascript ](https://drive.google.com/drive/folders/1Yu3MLKNY5ACbqjiezZCYwpOfwEGGVQBq?usp=sharing)
+## [code with mosh redux](https://drive.google.com/drive/folders/1T-DFOcLuunHTIIXu091YUeRWok2zO1re?usp=sharing)
