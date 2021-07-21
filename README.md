@@ -9,6 +9,7 @@
 ## [code with mosh Javascript ](https://drive.google.com/drive/folders/1Yu3MLKNY5ACbqjiezZCYwpOfwEGGVQBq?usp=sharing)
 ## [code with mosh redux](https://drive.google.com/drive/folders/1T-DFOcLuunHTIIXu091YUeRWok2zO1re?usp=sharing)
 ## [COmplete Mysql bootcamp](https://drive.google.com/drive/folders/1QVbfSi-Za9ShsF9MjWEofn_dG7q41qXk?usp=sharing)
-## [Jonas javascript part 1](https://drive.google.com/drive/folders/1SixV74LxAbA_mNJlaD9FJHl3pbDjs1zo?usp=sharing)
+## [Jonas javascript part 1]()
+### [part-2]()
 ## [Microsoft excel Course Complete](https://drive.google.com/drive/folders/1VSXZaBjaPj2VxXMImIAMULUqOGeP24Az?usp=sharing)
 
